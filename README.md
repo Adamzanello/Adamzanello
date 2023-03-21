@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adamzanello
 - 👀 I’m interested in blockchain solidity and ios devlement  and web development also  computer enginnering 
-- 🌱 I’m currently learning  game development for the vr  
+ 
 
 - 📫 How to reach me  adamzanello80@gmail.com
 
